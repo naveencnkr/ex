@@ -1,7 +1,7 @@
-var i=setInterval(fn,1000);
+var i=setInterval(fn,2000);
 var count=0;
 function fn(){
-    console.log("hello puka");
+    console.log("hello hai");
     count++;
     if(count>3)
     {
